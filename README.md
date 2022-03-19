@@ -1,2 +1,2 @@
-# pilot
+# RPS
 Rock, Paper or Sciccors
